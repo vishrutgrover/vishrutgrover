@@ -1,8 +1,9 @@
-<h2 align="center">Hi 👋 I'm Vishrut! <br>AI/ML Developer and Researcher from Delhi, India</h2>
+<h2 align="center">Hi 👋 I'm Vishrut! <br>AI/ML Developer and Researcher from Delhi, India</h2> 
 
 ###
 
 <div align="left">
+  <img src="https://c.tenor.com/giB0jG3Ofu4AAAAd/cat-dancing-led-light-rainbow.gif" height=40px width=40px alt="trolled">
   <a href="https://www.instagram.com/vishrutgrover/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
