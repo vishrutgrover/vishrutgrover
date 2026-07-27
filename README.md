@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋 I'm Vishrut! <br>AI/ML Developer and Researcher from Delhi, India</h2> 
+<h2 align="center">Hi 👋 I'm Vishrut! <br>Just a SWE (ML) from Delhi, India</h2> 
 
 ###
 
